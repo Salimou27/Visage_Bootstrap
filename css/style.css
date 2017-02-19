@@ -1,0 +1,73 @@
+
+.blanc {
+  height: 10vh ;
+  background-color: white;
+}
+
+.greenhaut{
+  height: 10vh ;
+  background-color: green ;
+}
+.greenbas {
+  height: 5vh ;
+  background-color: green ;
+}
+.yellowvisage {
+  height: 50vh ;
+  background-color: yellow ;
+
+}
+.yellowmenton {
+  height: 13vh ;
+  background-color: yellow ;
+}
+
+.blanc2 {
+  height: 10vh ;
+  background-color: yellow ;
+}
+
+.yeux1 {
+
+  height: 50px;
+  background-color: black;
+  border-radius: 100%;
+
+}
+
+.blanc3 {
+  height: 50px ;
+  background-color: yellow;
+}
+
+.nez {
+  background-color: red ;
+  height:50px ;
+  border-radius: 50% ;
+}
+
+.machoirecote {
+  background-color: black;
+  height: 60px;
+  border-radius: 10px 10px 0px 0px;
+
+}
+
+.blanc4 {
+  background-color: yellow ;
+  height: 10px ;
+}
+
+.machoirecentrale {
+  background-color: black;
+  height: 30px ;
+  border-radius: 0px 0px 20px 20px;
+}
+.blanc5 {
+  background-color: yellow ;
+  height: 50px ;
+}
+.blanc6 {
+  background-color: yellow ;
+  height: 30px ;
+}
